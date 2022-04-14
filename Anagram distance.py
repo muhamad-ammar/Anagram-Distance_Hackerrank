@@ -1,6 +1,6 @@
 # Write your code here
-a_="showman"
-b_="woman"
+a_=input("Enetr first String")
+b_=input("Enetr Second String")
 a=[]
 b=[]
 for z in a_:
